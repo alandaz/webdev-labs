@@ -17,8 +17,6 @@ FROM users;
 -- Exercise 4
 
 
-
-
 -- Exercise 5
 
 
